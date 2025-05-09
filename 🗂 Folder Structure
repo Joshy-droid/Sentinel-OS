@@ -1,0 +1,11 @@
+SentinelOS/
+├── admin_client.pyx/.pyd     # Admin panel interface
+├── user_client.py            # User interface
+├── server.py                 # Central server backend
+├── shared_secret.py/.pyd     # Shared key
+├── config.json               # Stores server IP
+├── key.key                   # Fernet key
+├── .admin_pw.enc             # Encrypted admin password
+├── .user_pw.enc              # Encrypted user exit password
+├── main.py                   # Launcher menu
+└── README.md                 # This file
