@@ -1,0 +1,52 @@
+# Python cache and virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+env/
+venv/
+
+# Cython build files
+*.c
+build/
+dist/
+*.egg-info/
+*.spec
+
+# PyInstaller output
+*.exe
+*.dll
+*.manifest
+*.tmp
+*.log
+
+# Encrypted and sensitive data
+.key
+key.key
+config.json
+.admin_pw.enc
+.user_pw.enc
+error.log
+
+# IDE/project files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.old
+*.zip
+
+# Compiled extensions
+*.cp*.pyd
+
+# Git and metadata
+*.swp
+*.swo
