@@ -44,3 +44,6 @@
 
 ## 🚀 Setup Instructions
 just run the .exe
+select if you want to install the user or admin panel
+set password
+set lan or wifi ip4
